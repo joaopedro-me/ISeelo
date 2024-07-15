@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "semint/1.0.0": {
+        "dependencies": {
+          "System.Reactive": "6.0.1",
+          "WebSocketSharp": "1.0.3-rc9"
+        },
+        "runtime": {
+          "semint.dll": {}
+        }
+      },
+      "System.Reactive/6.0.1": {
+        "runtime": {
+          "lib/net6.0/System.Reactive.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1.7420"
+          }
+        }
+      },
+      "WebSocketSharp/1.0.3-rc9": {
+        "runtime": {
+          "lib/websocket-sharp.dll": {
+            "assemblyVersion": "1.0.2.36589",
+            "fileVersion": "1.0.2.36589"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "semint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reactive/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rHaWtKDwCi9qJ3ObKo8LHPMuuwv33YbmQi7TcUK1C264V3MFnOr5Im7QgCTdLniztP3GJyeiSg5x8NqYJFqRmg==",
+      "path": "system.reactive/6.0.1",
+      "hashPath": "system.reactive.6.0.1.nupkg.sha512"
+    },
+    "WebSocketSharp/1.0.3-rc9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+HHS2VBt9cQNtfmdXY/XcKejYYABiSIXbKkeZwK03ccyQiLpYVcuMY2g+E2sNxuAWPgDAclRRBMRLAHr9gnx6Q==",
+      "path": "websocketsharp/1.0.3-rc9",
+      "hashPath": "websocketsharp.1.0.3-rc9.nupkg.sha512"
+    }
+  }
+}

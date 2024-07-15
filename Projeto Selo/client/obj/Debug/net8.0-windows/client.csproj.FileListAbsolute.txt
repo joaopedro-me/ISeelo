@@ -1,0 +1,17 @@
+C:\selo_test\client\obj\Debug\net8.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\selo_test\client\obj\Debug\net8.0-windows\client.AssemblyInfoInputs.cache
+C:\selo_test\client\obj\Debug\net8.0-windows\client.AssemblyInfo.cs
+C:\selo_test\client\obj\Debug\net8.0-windows\client.csproj.CoreCompileInputs.cache
+C:\selo_test\client\obj\Debug\net8.0-windows\client.genruntimeconfig.cache
+C:\selo_test\client\bin\Debug\net8.0-windows\websocket-sharp.dll
+C:\selo_test\client\obj\Debug\net8.0-windows\client.csproj.AssemblyReference.cache
+C:\selo_test\client\obj\Debug\net8.0-windows\client.csproj.CopyComplete
+C:\selo_test\client\bin\Debug\net8.0-windows\client.exe
+C:\selo_test\client\bin\Debug\net8.0-windows\client.deps.json
+C:\selo_test\client\bin\Debug\net8.0-windows\client.runtimeconfig.json
+C:\selo_test\client\bin\Debug\net8.0-windows\client.dll
+C:\selo_test\client\bin\Debug\net8.0-windows\client.pdb
+C:\selo_test\client\obj\Debug\net8.0-windows\client.dll
+C:\selo_test\client\obj\Debug\net8.0-windows\refint\client.dll
+C:\selo_test\client\obj\Debug\net8.0-windows\client.pdb
+C:\selo_test\client\obj\Debug\net8.0-windows\ref\client.dll

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Okt0a72tj/NJemNQNLexDLukcbgaw4LDOALK7MZ8FJIEZHrNes5KHi2uK1SSPh1akN5hlujMyNRqpvAIiWusVA==",
+  "success": true,
+  "projectFilePath": "C:\\selo_test\\server\\semint\\semint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\websocketsharp\\1.0.3-rc9\\websocketsharp.1.0.3-rc9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'WebSocketSharp 1.0.3-rc9' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

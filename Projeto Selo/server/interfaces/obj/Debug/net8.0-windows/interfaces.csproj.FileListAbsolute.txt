@@ -1,0 +1,17 @@
+C:\selo_test\server\interfaces\bin\Debug\net8.0-windows\interfaces.exe
+C:\selo_test\server\interfaces\bin\Debug\net8.0-windows\interfaces.deps.json
+C:\selo_test\server\interfaces\bin\Debug\net8.0-windows\interfaces.runtimeconfig.json
+C:\selo_test\server\interfaces\bin\Debug\net8.0-windows\interfaces.dll
+C:\selo_test\server\interfaces\bin\Debug\net8.0-windows\interfaces.pdb
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.AssemblyInfoInputs.cache
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.AssemblyInfo.cs
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.CoreCompileInputs.cache
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.dll
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\refint\interfaces.dll
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.pdb
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.genruntimeconfig.cache
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\ref\interfaces.dll
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.AssemblyReference.cache
+C:\selo_test\server\interfaces\bin\Debug\net8.0-windows\websocket-sharp.dll
+C:\selo_test\server\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.CopyComplete

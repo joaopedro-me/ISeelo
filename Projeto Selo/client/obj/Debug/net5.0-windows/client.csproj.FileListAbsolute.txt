@@ -1,0 +1,5 @@
+C:\selo_test\client\obj\Debug\net5.0-windows\client.csproj.AssemblyReference.cache
+C:\selo_test\client\obj\Debug\net5.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\selo_test\client\obj\Debug\net5.0-windows\client.AssemblyInfoInputs.cache
+C:\selo_test\client\obj\Debug\net5.0-windows\client.AssemblyInfo.cs
+C:\selo_test\client\obj\Debug\net5.0-windows\client.csproj.CoreCompileInputs.cache
